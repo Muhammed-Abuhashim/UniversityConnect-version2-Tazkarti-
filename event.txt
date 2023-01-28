@@ -1,0 +1,15 @@
+Event :  Amr Diab Concert
+
+Day :		 Wednesday 
+
+Time Attendance :		10:30 - 2:00
+	
+Hall :		    303G
+
+Section :            Vip - Normal
+
+Tickets :		   200 - 100
+
+Start Time : 		 2:30 - 3:00
+
+Finish Time :		    6:30 - 7:00

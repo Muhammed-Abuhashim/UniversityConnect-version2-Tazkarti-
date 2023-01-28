@@ -1,0 +1,15 @@
+Event :  Muhammed Hamaky Concert
+
+Day :		 Sunday
+
+Time Attendance :		10:30 - 2:00
+	
+Hall :		  Sporting Club
+
+Section :            Vip - Normal
+
+Tickets :		   200 - 100
+
+Start Time : 		 2:30 - 3:00
+
+Finish Time :		    6:30 - 7:00
